@@ -1,0 +1,8 @@
+.menuWrapper {
+  display: flex;
+  height: 35px;
+  align-items: center;
+}
+.avatar {
+  height: 100%;
+}

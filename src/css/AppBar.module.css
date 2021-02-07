@@ -1,0 +1,10 @@
+.navigation {
+  display: flex;
+  justify-content: space-around;
+  width: 100vw;
+  height: 50px;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  align-items: center;
+  margin-bottom: 50px;
+}
