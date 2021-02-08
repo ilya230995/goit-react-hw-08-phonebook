@@ -11,7 +11,6 @@ export default function Navigation() {
   const [current, setCurrent] = useState('');
 
   const handleClick = e => {
-    console.log('click ', e);
     setCurrent(e.key);
   };
   const isLoggedIn = useSelector(getIsLoggedIn);
